@@ -1,0 +1,10 @@
+# MATLAB
+*.asv
+*.mex*
+*.mat
+
+# macOS
+.DS_Store
+
+# MATLAB autosave / temp
+slprj/
