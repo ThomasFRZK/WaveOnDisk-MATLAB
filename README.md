@@ -22,10 +22,10 @@ solutions via Bessel functions.
 ## Results
 
 ### Mode m=0 n=1
-![Mode m2 n1](0.1BesselMode.png)
+![Mode m2 n1](figures/0.1BesselMode.png)
 
 ### Linear combination of four different modes
-![Mode Combination](ModeCombination.png)
+![Mode Combination](figures/ModeCombination.png)
 
 
 ## Future work
